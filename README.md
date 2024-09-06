@@ -1,4 +1,4 @@
-This repository hosts a Python-based keylogger, created as part of a cyber security internship with the IBM SkillBuild Program. The project demonstrates the basic functionality of a keylogger, capturing keystrokes on a computer and potentially storing or transmitting this information for analysis.
+The project demonstrates the basic functionality of a keylogger, capturing keystrokes on a computer and potentially storing or transmitting this information for analysis.
 
 Key Features:
 
